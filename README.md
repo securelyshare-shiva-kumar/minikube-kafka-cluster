@@ -23,3 +23,9 @@ spec:
   replicas: 3
 ```
 
+### Networking
+
+Minikube pods can access kafka via below url.
+
+```bootstrap.kafka:9092```
+
